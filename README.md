@@ -34,11 +34,20 @@ The data was sourced from the [Smart Dublin](https://data.smartdublin.ie) portal
 
 4. **Daily Traffic Volume and Cloud Mode**: Focusing on a selected month, a plot depicting the daily traffic volume and cloud mode was created to explore any potential correlations.
 
+
+![Rplot1](https://github.com/DivyaPariti/Exploratory-Analysis-of-Dublin-Bike-Traffic-and-Weather-Data/assets/65856784/5ee39d92-0225-46f5-8111-f2126e1fa66b)
+
+![Rplot2](https://github.com/DivyaPariti/Exploratory-Analysis-of-Dublin-Bike-Traffic-and-Weather-Data/assets/65856784/e8a7d019-8ad2-443c-b8ba-0482a95ad04f)
+
+
 #### Task 3: Creativity 🎨
 
 - **Precipitation by Month**: A bar graph illustrating the total precipitation amount for each month was generated to identify seasonal patterns.
 
 - **Mean Wind Speed by Month**: An aggregate table showing the mean wind speed for each month provided insights into seasonal variations in wind conditions.
+
+![Rplot](https://github.com/DivyaPariti/Exploratory-Analysis-of-Dublin-Bike-Traffic-and-Weather-Data/assets/65856784/a2deee00-8cf0-4d5e-85f8-3599e9dfd8f1)
+
 
 ### Conclusion 🏁
 
